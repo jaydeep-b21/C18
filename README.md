@@ -1,1 +1,1 @@
-# C18
+# grid search logistic regression
